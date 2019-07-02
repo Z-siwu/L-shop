@@ -1,0 +1,14 @@
+{
+    "name": "Jupin",
+    "alias": "jupin",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Jupin\\Providers\\JupinServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
